@@ -1,2 +1,2 @@
-# Curso_ReactJS_Basico
+# Curso ReactJS Básico
 Código para El Curso de ReactJS Basico.
