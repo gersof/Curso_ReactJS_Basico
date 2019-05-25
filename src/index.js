@@ -9,6 +9,8 @@ function reloj(){
         <h2>Esta es la hora : {new Date().toLocaleTimeString()}</h2>
     </div>);
 
+    ReactDOM.render(elemento, document.getElementById('root'));
+
 }
 
 
